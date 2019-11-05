@@ -1,0 +1,37 @@
+{
+  "name": "drinknepal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "authentication": "^0.0.4",
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "got": "^9.6.0",
+    "hbs": "^4.0.4",
+    "jest": "^24.9.0",
+    "json-mock": "^0.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.5.12",
+    "multer": "^1.4.1",
+    "nodemailer": "^6.3.1",
+    "passport": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RazzibShakya/DrinkNepal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RazzibShakya/DrinkNepal/issues"
+  },
+  "homepage": "https://github.com/RazzibShakya/DrinkNepal#readme"
+}
